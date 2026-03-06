@@ -1,0 +1,2086 @@
+[
+  {
+    "id": "Q0001",
+    "text": "¿Qué señala el corpus sobre consentimiento granular en investigación genómica?",
+    "expected_providers": [
+      "P1"
+    ],
+    "topic": "bio-infraestructura",
+    "type": "local",
+    "difficulty": "media",
+    "calibration_set": true
+  },
+  {
+    "id": "Q0002",
+    "text": "¿Qué indica el corpus acerca de clasificación de datos de salud como sensibles bajo GDPR?",
+    "expected_providers": [
+      "P2"
+    ],
+    "topic": "cumplimiento-regulatorio",
+    "type": "local",
+    "difficulty": "media",
+    "calibration_set": true
+  },
+  {
+    "id": "Q0003",
+    "text": "¿Qué expone el corpus respecto a sesgo demográfico en datasets de entrenamiento?",
+    "expected_providers": [
+      "P3"
+    ],
+    "topic": "etica-gobernanza",
+    "type": "local",
+    "difficulty": "media",
+    "calibration_set": true
+  },
+  {
+    "id": "Q0004",
+    "text": "¿Qué señala el corpus sobre consentimiento dinámico para participantes hospitalarios?",
+    "expected_providers": [
+      "P1"
+    ],
+    "topic": "bio-infraestructura",
+    "type": "local",
+    "difficulty": "media",
+    "calibration_set": true
+  },
+  {
+    "id": "Q0005",
+    "text": "¿Qué indica el corpus acerca de bases legales: consentimiento explícito vs interés público?",
+    "expected_providers": [
+      "P2"
+    ],
+    "topic": "cumplimiento-regulatorio",
+    "type": "local",
+    "difficulty": "media",
+    "calibration_set": true
+  },
+  {
+    "id": "Q0006",
+    "text": "¿Qué expone el corpus respecto a validación rigurosa de sistemas de IA médica?",
+    "expected_providers": [
+      "P3"
+    ],
+    "topic": "etica-gobernanza",
+    "type": "local",
+    "difficulty": "media",
+    "calibration_set": true
+  },
+  {
+    "id": "Q0007",
+    "text": "¿Qué señala el corpus sobre reutilización secundaria de datos genómicos?",
+    "expected_providers": [
+      "P1"
+    ],
+    "topic": "bio-infraestructura",
+    "type": "local",
+    "difficulty": "media",
+    "calibration_set": true
+  },
+  {
+    "id": "Q0008",
+    "text": "¿Qué indica el corpus acerca de Standard Contractual Clauses para datos sanitarios?",
+    "expected_providers": [
+      "P2"
+    ],
+    "topic": "cumplimiento-regulatorio",
+    "type": "local",
+    "difficulty": "media",
+    "calibration_set": true
+  },
+  {
+    "id": "Q0009",
+    "text": "¿Qué expone el corpus respecto a supervisión humana en diagnósticos asistidos por IA?",
+    "expected_providers": [
+      "P3"
+    ],
+    "topic": "etica-gobernanza",
+    "type": "local",
+    "difficulty": "media",
+    "calibration_set": true
+  },
+  {
+    "id": "Q0010",
+    "text": "¿Qué señala el corpus sobre riesgos de reidentificación en datos genéticos?",
+    "expected_providers": [
+      "P1"
+    ],
+    "topic": "bio-infraestructura",
+    "type": "local",
+    "difficulty": "media",
+    "calibration_set": true
+  },
+  {
+    "id": "Q0011",
+    "text": "¿Qué indica el corpus acerca de Binding Corporate Rules en contextos multilocales?",
+    "expected_providers": [
+      "P2"
+    ],
+    "topic": "cumplimiento-regulatorio",
+    "type": "local",
+    "difficulty": "media",
+    "calibration_set": true
+  },
+  {
+    "id": "Q0012",
+    "text": "¿Qué expone el corpus respecto a gobernanza centrada en el paciente y participación?",
+    "expected_providers": [
+      "P3"
+    ],
+    "topic": "etica-gobernanza",
+    "type": "local",
+    "difficulty": "media",
+    "calibration_set": true
+  },
+  {
+    "id": "Q0013",
+    "text": "¿Qué señala el corpus sobre cómputo local en aprendizaje federado?",
+    "expected_providers": [
+      "P1"
+    ],
+    "topic": "bio-infraestructura",
+    "type": "local",
+    "difficulty": "media",
+    "calibration_set": true
+  },
+  {
+    "id": "Q0014",
+    "text": "¿Qué indica el corpus acerca de principio de minimización aplicado a datos clínicos?",
+    "expected_providers": [
+      "P2"
+    ],
+    "topic": "cumplimiento-regulatorio",
+    "type": "local",
+    "difficulty": "media",
+    "calibration_set": true
+  },
+  {
+    "id": "Q0015",
+    "text": "¿Qué expone el corpus respecto a data cooperatives para control del paciente?",
+    "expected_providers": [
+      "P3"
+    ],
+    "topic": "etica-gobernanza",
+    "type": "local",
+    "difficulty": "media",
+    "calibration_set": true
+  },
+  {
+    "id": "Q0016",
+    "text": "¿Qué señala el corpus sobre agregación de resultados para proteger identidades?",
+    "expected_providers": [
+      "P1"
+    ],
+    "topic": "bio-infraestructura",
+    "type": "local",
+    "difficulty": "media",
+    "calibration_set": true
+  },
+  {
+    "id": "Q0017",
+    "text": "¿Qué indica el corpus acerca de accountability y obligaciones del data controller?",
+    "expected_providers": [
+      "P2"
+    ],
+    "topic": "cumplimiento-regulatorio",
+    "type": "local",
+    "difficulty": "media",
+    "calibration_set": true
+  },
+  {
+    "id": "Q0018",
+    "text": "¿Qué expone el corpus respecto a auditorías participativas en salud digital?",
+    "expected_providers": [
+      "P3"
+    ],
+    "topic": "etica-gobernanza",
+    "type": "local",
+    "difficulty": "media",
+    "calibration_set": true
+  },
+  {
+    "id": "Q0019",
+    "text": "¿Cómo aborda el corpus la relación entre consentimiento dinámico y obligaciones de transparencia del GDPR?",
+    "expected_providers": [
+      "P1",
+      "P2"
+    ],
+    "topic": "integracion-bio-legal",
+    "type": "distribuida",
+    "difficulty": "media",
+    "calibration_set": true
+  },
+  {
+    "id": "Q0020",
+    "text": "¿Cómo aborda el corpus la relación entre minimización de datos aplicada al aprendizaje federado?",
+    "expected_providers": [
+      "P1",
+      "P2"
+    ],
+    "topic": "integracion-bio-legal",
+    "type": "distribuida",
+    "difficulty": "media",
+    "calibration_set": true
+  },
+  {
+    "id": "Q0021",
+    "text": "¿Cómo aborda el corpus la relación entre reutilización secundaria frente a requisitos contractuales?",
+    "expected_providers": [
+      "P1",
+      "P2"
+    ],
+    "topic": "integracion-bio-legal",
+    "type": "distribuida",
+    "difficulty": "media",
+    "calibration_set": true
+  },
+  {
+    "id": "Q0022",
+    "text": "¿Cómo aborda el corpus la relación entre pseudonimización como medida para compartir modelos?",
+    "expected_providers": [
+      "P1",
+      "P2"
+    ],
+    "topic": "integracion-bio-legal",
+    "type": "distribuida",
+    "difficulty": "media",
+    "calibration_set": true
+  },
+  {
+    "id": "Q0023",
+    "text": "¿Cómo aborda el corpus la relación entre documentación de conformidad cuando se usan datos genómicos en federación?",
+    "expected_providers": [
+      "P1",
+      "P2"
+    ],
+    "topic": "integracion-bio-legal",
+    "type": "distribuida",
+    "difficulty": "media",
+    "calibration_set": true
+  },
+  {
+    "id": "Q0024",
+    "text": "¿Cómo aborda el corpus la relación entre impacto de heterogeneidad de esquemas en cumplimiento contractual?",
+    "expected_providers": [
+      "P1",
+      "P2"
+    ],
+    "topic": "integracion-bio-legal",
+    "type": "distribuida",
+    "difficulty": "media",
+    "calibration_set": true
+  },
+  {
+    "id": "Q0025",
+    "text": "¿Cómo aborda el corpus la relación entre compartición de resultados agregados y obligaciones legales?",
+    "expected_providers": [
+      "P1",
+      "P2"
+    ],
+    "topic": "integracion-bio-legal",
+    "type": "distribuida",
+    "difficulty": "media",
+    "calibration_set": true
+  },
+  {
+    "id": "Q0026",
+    "text": "¿Cómo aborda el corpus la relación entre cláusulas contractuales frente a reutilización secundaria en genómica?",
+    "expected_providers": [
+      "P1",
+      "P2"
+    ],
+    "topic": "integracion-bio-legal",
+    "type": "distribuida",
+    "difficulty": "media",
+    "calibration_set": true
+  },
+  {
+    "id": "Q0027",
+    "text": "¿Cómo aborda el corpus la relación entre limitaciones del consentimiento para transferencia de datos genómicos?",
+    "expected_providers": [
+      "P1",
+      "P2"
+    ],
+    "topic": "integracion-bio-legal",
+    "type": "distribuida",
+    "difficulty": "media",
+    "calibration_set": true
+  },
+  {
+    "id": "Q0028",
+    "text": "¿Cómo aborda el corpus la relación entre uso de encriptación en pipelines federados con datos sensibles?",
+    "expected_providers": [
+      "P1",
+      "P2"
+    ],
+    "topic": "integracion-bio-legal",
+    "type": "distribuida",
+    "difficulty": "media",
+    "calibration_set": true
+  },
+  {
+    "id": "Q0029",
+    "text": "¿Qué describe el corpus sobre la intersección de accountability legal y supervisión humana en IA médica?",
+    "expected_providers": [
+      "P2",
+      "P3"
+    ],
+    "topic": "integracion-legal-etica",
+    "type": "distribuida",
+    "difficulty": "media",
+    "calibration_set": true
+  },
+  {
+    "id": "Q0030",
+    "text": "¿Qué describe el corpus sobre la intersección de transparencia normativa y transparencia en modelos diagnósticos?",
+    "expected_providers": [
+      "P2",
+      "P3"
+    ],
+    "topic": "integracion-legal-etica",
+    "type": "distribuida",
+    "difficulty": "media",
+    "calibration_set": true
+  },
+  {
+    "id": "Q0031",
+    "text": "¿Qué describe el corpus sobre la intersección de DPIA y evaluación ética de sistemas de IA?",
+    "expected_providers": [
+      "P2",
+      "P3"
+    ],
+    "topic": "integracion-legal-etica",
+    "type": "distribuida",
+    "difficulty": "media",
+    "calibration_set": true
+  },
+  {
+    "id": "Q0032",
+    "text": "¿Qué describe el corpus sobre la intersección de responsabilidad legal ante sesgos algorítmicos?",
+    "expected_providers": [
+      "P2",
+      "P3"
+    ],
+    "topic": "integracion-legal-etica",
+    "type": "distribuida",
+    "difficulty": "media",
+    "calibration_set": true
+  },
+  {
+    "id": "Q0033",
+    "text": "¿Qué describe el corpus sobre la intersección de requerimientos regulatorios para auditorías participativas?",
+    "expected_providers": [
+      "P2",
+      "P3"
+    ],
+    "topic": "integracion-legal-etica",
+    "type": "distribuida",
+    "difficulty": "media",
+    "calibration_set": true
+  },
+  {
+    "id": "Q0034",
+    "text": "¿Qué describe el corpus sobre la intersección de notificación ante fallos en sistemas de diagnóstico automatizados?",
+    "expected_providers": [
+      "P2",
+      "P3"
+    ],
+    "topic": "integracion-legal-etica",
+    "type": "distribuida",
+    "difficulty": "media",
+    "calibration_set": true
+  },
+  {
+    "id": "Q0035",
+    "text": "¿Qué describe el corpus sobre la intersección de pseudonimización y garantías éticas en entrenamiento de IA?",
+    "expected_providers": [
+      "P2",
+      "P3"
+    ],
+    "topic": "integracion-legal-etica",
+    "type": "distribuida",
+    "difficulty": "media",
+    "calibration_set": true
+  },
+  {
+    "id": "Q0036",
+    "text": "¿Qué describe el corpus sobre la intersección de obligaciones de reporting a autoridades en despliegues de IA clínica?",
+    "expected_providers": [
+      "P2",
+      "P3"
+    ],
+    "topic": "integracion-legal-etica",
+    "type": "distribuida",
+    "difficulty": "media",
+    "calibration_set": true
+  },
+  {
+    "id": "Q0037",
+    "text": "¿Qué describe el corpus sobre la intersección de compatibilidad entre sanciones regulatorias y medidas éticas?",
+    "expected_providers": [
+      "P2",
+      "P3"
+    ],
+    "topic": "integracion-legal-etica",
+    "type": "distribuida",
+    "difficulty": "media",
+    "calibration_set": true
+  },
+  {
+    "id": "Q0038",
+    "text": "¿Qué describe el corpus sobre la intersección de documentación legal requerida para validación de modelos?",
+    "expected_providers": [
+      "P2",
+      "P3"
+    ],
+    "topic": "integracion-legal-etica",
+    "type": "distribuida",
+    "difficulty": "media",
+    "calibration_set": true
+  },
+  {
+    "id": "Q0039",
+    "text": "¿Cómo se aborda en el corpus autonomía del paciente y gobernanza participativa en genómica?",
+    "expected_providers": [
+      "P1",
+      "P3"
+    ],
+    "topic": "integracion-bio-etica",
+    "type": "distribuida",
+    "difficulty": "media",
+    "calibration_set": true
+  },
+  {
+    "id": "Q0040",
+    "text": "¿Cómo se aborda en el corpus participación del paciente en reutilización de datos genéticos?",
+    "expected_providers": [
+      "P1",
+      "P3"
+    ],
+    "topic": "integracion-bio-etica",
+    "type": "distribuida",
+    "difficulty": "media",
+    "calibration_set": true
+  },
+  {
+    "id": "Q0041",
+    "text": "¿Cómo se aborda en el corpus transparencia en procedencia de datos genómicos y confianza del paciente?",
+    "expected_providers": [
+      "P1",
+      "P3"
+    ],
+    "topic": "integracion-bio-etica",
+    "type": "distribuida",
+    "difficulty": "media",
+    "calibration_set": true
+  },
+  {
+    "id": "Q0042",
+    "text": "¿Cómo se aborda en el corpus mecanismos de feedback del paciente para usos secundarios?",
+    "expected_providers": [
+      "P1",
+      "P3"
+    ],
+    "topic": "integracion-bio-etica",
+    "type": "distribuida",
+    "difficulty": "media",
+    "calibration_set": true
+  },
+  {
+    "id": "Q0043",
+    "text": "¿Cómo se aborda en el corpus data cooperatives y consentimiento en estudios genómicos?",
+    "expected_providers": [
+      "P1",
+      "P3"
+    ],
+    "topic": "integracion-bio-etica",
+    "type": "distribuida",
+    "difficulty": "media",
+    "calibration_set": true
+  },
+  {
+    "id": "Q0044",
+    "text": "¿Cómo se aborda en el corpus auditorías participativas aplicadas a procesos de consentimiento en genética?",
+    "expected_providers": [
+      "P1",
+      "P3"
+    ],
+    "topic": "integracion-bio-etica",
+    "type": "distribuida",
+    "difficulty": "media",
+    "calibration_set": true
+  },
+  {
+    "id": "Q0045",
+    "text": "¿Cómo se aborda en el corpus toma de decisiones compartida sobre usos futuros de datos genéticos?",
+    "expected_providers": [
+      "P1",
+      "P3"
+    ],
+    "topic": "integracion-bio-etica",
+    "type": "distribuida",
+    "difficulty": "media",
+    "calibration_set": true
+  },
+  {
+    "id": "Q0046",
+    "text": "¿Cómo se aborda en el corpus protección de equidad en estudios genómicos con IA?",
+    "expected_providers": [
+      "P1",
+      "P3"
+    ],
+    "topic": "integracion-bio-etica",
+    "type": "distribuida",
+    "difficulty": "media",
+    "calibration_set": true
+  },
+  {
+    "id": "Q0047",
+    "text": "¿Cómo se aborda en el corpus prácticas de comunicación continua con participantes en ensayos genómicos?",
+    "expected_providers": [
+      "P1",
+      "P3"
+    ],
+    "topic": "integracion-bio-etica",
+    "type": "distribuida",
+    "difficulty": "media",
+    "calibration_set": true
+  },
+  {
+    "id": "Q0048",
+    "text": "¿Cómo se aborda en el corpus herramientas para empoderar al paciente en control de datos genéticos?",
+    "expected_providers": [
+      "P1",
+      "P3"
+    ],
+    "topic": "integracion-bio-etica",
+    "type": "distribuida",
+    "difficulty": "media",
+    "calibration_set": true
+  },
+  {
+    "id": "Q0049",
+    "text": "¿Qué propone el corpus sobre modelos de gobernanza que integren consentimiento, cláusulas contractuales y auditorías?",
+    "expected_providers": [
+      "P1",
+      "P2",
+      "P3"
+    ],
+    "topic": "integracion-triangular",
+    "type": "distribuida",
+    "difficulty": "media",
+    "calibration_set": true
+  },
+  {
+    "id": "Q0050",
+    "text": "¿Qué propone el corpus sobre procedimientos para actualizar consentimientos respetando obligaciones legales y expectativas éticas?",
+    "expected_providers": [
+      "P1",
+      "P2",
+      "P3"
+    ],
+    "topic": "integracion-triangular",
+    "type": "distribuida",
+    "difficulty": "media",
+    "calibration_set": true
+  },
+  {
+    "id": "Q0051",
+    "text": "¿Qué propone el corpus sobre esquemas de rendición de cuentas triangulares en estudios federados?",
+    "expected_providers": [
+      "P1",
+      "P2",
+      "P3"
+    ],
+    "topic": "integracion-triangular",
+    "type": "distribuida",
+    "difficulty": "media",
+    "calibration_set": true
+  },
+  {
+    "id": "Q0052",
+    "text": "¿Qué propone el corpus sobre interoperabilidad técnica, requisitos legales y participación ciudadana?",
+    "expected_providers": [
+      "P1",
+      "P2",
+      "P3"
+    ],
+    "topic": "integracion-triangular",
+    "type": "distribuida",
+    "difficulty": "media",
+    "calibration_set": true
+  },
+  {
+    "id": "Q0053",
+    "text": "¿Qué propone el corpus sobre evaluación de impacto que combine riesgos legales, técnicos y éticos?",
+    "expected_providers": [
+      "P1",
+      "P2",
+      "P3"
+    ],
+    "topic": "integracion-triangular",
+    "type": "distribuida",
+    "difficulty": "media",
+    "calibration_set": true
+  },
+  {
+    "id": "Q0054",
+    "text": "¿Qué propone el corpus sobre marcos para mitigar reidentificación respetando regulación y participación del paciente?",
+    "expected_providers": [
+      "P1",
+      "P2",
+      "P3"
+    ],
+    "topic": "integracion-triangular",
+    "type": "distribuida",
+    "difficulty": "media",
+    "calibration_set": true
+  },
+  {
+    "id": "Q0055",
+    "text": "¿Qué propone el corpus sobre procedimientos integrados para notificar a participantes y autoridades sobre nuevos usos?",
+    "expected_providers": [
+      "P1",
+      "P2",
+      "P3"
+    ],
+    "topic": "integracion-triangular",
+    "type": "distribuida",
+    "difficulty": "media",
+    "calibration_set": true
+  },
+  {
+    "id": "Q0056",
+    "text": "¿Qué propone el corpus sobre alineación entre transparencia técnica del modelo, obligaciones legales y derechos del paciente?",
+    "expected_providers": [
+      "P1",
+      "P2",
+      "P3"
+    ],
+    "topic": "integracion-triangular",
+    "type": "distribuida",
+    "difficulty": "media",
+    "calibration_set": true
+  },
+  {
+    "id": "Q0057",
+    "text": "¿Qué propone el corpus sobre diseño de procesos de gobernanza para investigación federada internacional?",
+    "expected_providers": [
+      "P1",
+      "P2",
+      "P3"
+    ],
+    "topic": "integracion-triangular",
+    "type": "distribuida",
+    "difficulty": "media",
+    "calibration_set": true
+  },
+  {
+    "id": "Q0058",
+    "text": "¿Qué propone el corpus sobre mecanismos combinados (técnicos, contractuales y participativos) para protección de datos?",
+    "expected_providers": [
+      "P1",
+      "P2",
+      "P3"
+    ],
+    "topic": "integracion-triangular",
+    "type": "distribuida",
+    "difficulty": "media",
+    "calibration_set": true
+  },
+  {
+    "id": "Q0059",
+    "text": "¿Qué propone el corpus sobre integración de auditorías participativas con requisitos contractuales en consorcios?",
+    "expected_providers": [
+      "P1",
+      "P2",
+      "P3"
+    ],
+    "topic": "integracion-triangular",
+    "type": "distribuida",
+    "difficulty": "media",
+    "calibration_set": true
+  },
+  {
+    "id": "Q0060",
+    "text": "¿Qué propone el corpus sobre estrategias para equilibrar minimización de datos, validación ética y cumplimiento legal?",
+    "expected_providers": [
+      "P1",
+      "P2",
+      "P3"
+    ],
+    "topic": "integracion-triangular",
+    "type": "distribuida",
+    "difficulty": "media",
+    "calibration_set": true
+  },
+   {
+    "id": "Q0061",
+    "text": "¿Qué exige la normativa requisitos post-Schrems II para datos sanitarios?",
+    "expected_providers": [
+      "P2"
+    ],
+    "topic": "presion-regulatoria",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0062",
+    "text": "¿Cómo se evalúa evaluación de adecuación y niveles de protección?",
+    "expected_providers": [
+      "P2"
+    ],
+    "topic": "presion-regulatoria",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0063",
+    "text": "¿Qué medidas prácticas se recomiendan para diferencias entre SCC y BCR para datos clínicos?",
+    "expected_providers": [
+      "P2"
+    ],
+    "topic": "presion-regulatoria",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0064",
+    "text": "¿Cuál es la diferencia entre obligaciones del data controller en transferencias?",
+    "expected_providers": [
+      "P2"
+    ],
+    "topic": "presion-regulatoria",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0065",
+    "text": "¿Qué responsabilidades se derivan al aplicar responsabilidades del data processor en terceros países?",
+    "expected_providers": [
+      "P2"
+    ],
+    "topic": "presion-regulatoria",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0066",
+    "text": "¿Cómo interpretan los supervisores uso de encriptación como medida suplementaria?",
+    "expected_providers": [
+      "P2"
+    ],
+    "topic": "presion-regulatoria",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0067",
+    "text": "¿Qué limitaciones operativas impone aplicación de pseudonimización en exportaciones?",
+    "expected_providers": [
+      "P2"
+    ],
+    "topic": "presion-regulatoria",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0068",
+    "text": "¿Qué papel juegan los contratos tipo para impacto del principio de minimización en flujos internacionales?",
+    "expected_providers": [
+      "P2"
+    ],
+    "topic": "presion-regulatoria",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0069",
+    "text": "¿Cómo afecta a la transferencia el nivel de protección de destino necesidad de DPIA (Data Protection Impact Assessment) para transferencias?",
+    "expected_providers": [
+      "P2"
+    ],
+    "topic": "presion-regulatoria",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0070",
+    "text": "¿Qué mecanismos organizativos refuerzan limitaciones del consentimiento como base legal para exportaciones?",
+    "expected_providers": [
+      "P2"
+    ],
+    "topic": "presion-regulatoria",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0071",
+    "text": "¿Qué exige la normativa cláusulas contractuales y control de subprocesadores?",
+    "expected_providers": [
+      "P2"
+    ],
+    "topic": "presion-regulatoria",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0072",
+    "text": "¿Cómo se evalúa evaluación de riesgos de reidentificación en datos sanitarios?",
+    "expected_providers": [
+      "P2"
+    ],
+    "topic": "presion-regulatoria",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0073",
+    "text": "¿Qué medidas prácticas se recomiendan para notificación a autoridades en caso de transferencia de alto riesgo?",
+    "expected_providers": [
+      "P2"
+    ],
+    "topic": "presion-regulatoria",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0074",
+    "text": "¿Cuál es la diferencia entre requisitos de transparencia para transferencias transfronterizas?",
+    "expected_providers": [
+      "P2"
+    ],
+    "topic": "presion-regulatoria",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0075",
+    "text": "¿Qué responsabilidades se derivan al aplicar medidas organizativas exigidas por supervisores en transferencias?",
+    "expected_providers": [
+      "P2"
+    ],
+    "topic": "presion-regulatoria",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0076",
+    "text": "¿Cómo interpretan los supervisores comparación de protección intra-UE vs extra-UE?",
+    "expected_providers": [
+      "P2"
+    ],
+    "topic": "presion-regulatoria",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0077",
+    "text": "¿Qué limitaciones operativas impone criterios para considerar un tercer país con nivel adecuado?",
+    "expected_providers": [
+      "P2"
+    ],
+    "topic": "presion-regulatoria",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0078",
+    "text": "¿Qué papel juegan los contratos tipo para efectos de salvaguardas técnicas sobre la legalidad de exportaciones?",
+    "expected_providers": [
+      "P2"
+    ],
+    "topic": "presion-regulatoria",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0079",
+    "text": "¿Cómo afecta a la transferencia el nivel de protección de destino limitaciones prácticas de SCCs en entornos sanitarios?",
+    "expected_providers": [
+      "P2"
+    ],
+    "topic": "presion-regulatoria",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0080",
+    "text": "¿Qué mecanismos organizativos refuerzan prerrequisitos contractuales para compartir datos clínicos con proveedores externos?",
+    "expected_providers": [
+      "P2"
+    ],
+    "topic": "presion-regulatoria",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0081",
+    "text": "¿Qué exige la normativa roles y obligaciones en la cadena de custodia de datos exportados?",
+    "expected_providers": [
+      "P2"
+    ],
+    "topic": "presion-regulatoria",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0082",
+    "text": "¿Cómo se evalúa imposición de sanciones por transferencias indebidas de datos sanitarios?",
+    "expected_providers": [
+      "P2"
+    ],
+    "topic": "presion-regulatoria",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0083",
+    "text": "¿Qué medidas prácticas se recomiendan para compatibilidad de transferencias con fines de investigación secundaria?",
+    "expected_providers": [
+      "P2"
+    ],
+    "topic": "presion-regulatoria",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0084",
+    "text": "¿Cuál es la diferencia entre aplicación de cláusulas tipo a subcontratistas?",
+    "expected_providers": [
+      "P2"
+    ],
+    "topic": "presion-regulatoria",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0085",
+    "text": "¿Qué responsabilidades se derivan al aplicar gestión de solicitudes de acceso internacionales a datos sanitarios?",
+    "expected_providers": [
+      "P2"
+    ],
+    "topic": "presion-regulatoria",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0086",
+    "text": "¿Cómo interpretan los supervisores requisitos post-Schrems II para datos sanitarios?",
+    "expected_providers": [
+      "P2"
+    ],
+    "topic": "presion-regulatoria",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0087",
+    "text": "¿Qué limitaciones operativas impone evaluación de adecuación y niveles de protección?",
+    "expected_providers": [
+      "P2"
+    ],
+    "topic": "presion-regulatoria",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0088",
+    "text": "¿Qué papel juegan los contratos tipo para diferencias entre SCC y BCR para datos clínicos?",
+    "expected_providers": [
+      "P2"
+    ],
+    "topic": "presion-regulatoria",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0089",
+    "text": "¿Cómo afecta a la transferencia el nivel de protección de destino obligaciones del data controller en transferencias?",
+    "expected_providers": [
+      "P2"
+    ],
+    "topic": "presion-regulatoria",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0090",
+    "text": "¿Qué mecanismos organizativos refuerzan responsabilidades del data processor en terceros países?",
+    "expected_providers": [
+      "P2"
+    ],
+    "topic": "presion-regulatoria",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0091",
+    "text": "¿Qué exige la normativa uso de encriptación como medida suplementaria?",
+    "expected_providers": [
+      "P2"
+    ],
+    "topic": "presion-regulatoria",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0092",
+    "text": "¿Cómo se evalúa aplicación de pseudonimización en exportaciones?",
+    "expected_providers": [
+      "P2"
+    ],
+    "topic": "presion-regulatoria",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0093",
+    "text": "¿Qué medidas prácticas se recomiendan para impacto del principio de minimización en flujos internacionales?",
+    "expected_providers": [
+      "P2"
+    ],
+    "topic": "presion-regulatoria",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0094",
+    "text": "¿Cuál es la diferencia entre necesidad de DPIA (Data Protection Impact Assessment) para transferencias?",
+    "expected_providers": [
+      "P2"
+    ],
+    "topic": "presion-regulatoria",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0095",
+    "text": "¿Qué responsabilidades se derivan al aplicar limitaciones del consentimiento como base legal para exportaciones?",
+    "expected_providers": [
+      "P2"
+    ],
+    "topic": "presion-regulatoria",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0096",
+    "text": "¿Cómo interpretan los supervisores cláusulas contractuales y control de subprocesadores?",
+    "expected_providers": [
+      "P2"
+    ],
+    "topic": "presion-regulatoria",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0097",
+    "text": "¿Qué limitaciones operativas impone evaluación de riesgos de reidentificación en datos sanitarios?",
+    "expected_providers": [
+      "P2"
+    ],
+    "topic": "presion-regulatoria",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0098",
+    "text": "¿Qué papel juegan los contratos tipo para notificación a autoridades en caso de transferencia de alto riesgo?",
+    "expected_providers": [
+      "P2"
+    ],
+    "topic": "presion-regulatoria",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0099",
+    "text": "¿Cómo afecta a la transferencia el nivel de protección de destino requisitos de transparencia para transferencias transfronterizas?",
+    "expected_providers": [
+      "P2"
+    ],
+    "topic": "presion-regulatoria",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0100",
+    "text": "¿Qué mecanismos organizativos refuerzan medidas organizativas exigidas por supervisores en transferencias?",
+    "expected_providers": [
+      "P2"
+    ],
+    "topic": "presion-regulatoria",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0101",
+    "text": "¿Qué exige la normativa comparación de protección intra-UE vs extra-UE?",
+    "expected_providers": [
+      "P2"
+    ],
+    "topic": "presion-regulatoria",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0102",
+    "text": "¿Cómo se evalúa criterios para considerar un tercer país con nivel adecuado?",
+    "expected_providers": [
+      "P2"
+    ],
+    "topic": "presion-regulatoria",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0103",
+    "text": "¿Qué medidas prácticas se recomiendan para efectos de salvaguardas técnicas sobre la legalidad de exportaciones?",
+    "expected_providers": [
+      "P2"
+    ],
+    "topic": "presion-regulatoria",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0104",
+    "text": "¿Cuál es la diferencia entre limitaciones prácticas de SCCs en entornos sanitarios?",
+    "expected_providers": [
+      "P2"
+    ],
+    "topic": "presion-regulatoria",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0105",
+    "text": "¿Qué responsabilidades se derivan al aplicar prerrequisitos contractuales para compartir datos clínicos con proveedores externos?",
+    "expected_providers": [
+      "P2"
+    ],
+    "topic": "presion-regulatoria",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0106",
+    "text": "¿Cómo interpretan los supervisores roles y obligaciones en la cadena de custodia de datos exportados?",
+    "expected_providers": [
+      "P2"
+    ],
+    "topic": "presion-regulatoria",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0107",
+    "text": "¿Qué limitaciones operativas impone imposición de sanciones por transferencias indebidas de datos sanitarios?",
+    "expected_providers": [
+      "P2"
+    ],
+    "topic": "presion-regulatoria",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0108",
+    "text": "¿Qué papel juegan los contratos tipo para compatibilidad de transferencias con fines de investigación secundaria?",
+    "expected_providers": [
+      "P2"
+    ],
+    "topic": "presion-regulatoria",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0109",
+    "text": "¿Cómo afecta a la transferencia el nivel de protección de destino aplicación de cláusulas tipo a subcontratistas?",
+    "expected_providers": [
+      "P2"
+    ],
+    "topic": "presion-regulatoria",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0110",
+    "text": "¿Qué mecanismos organizativos refuerzan gestión de solicitudes de acceso internacionales a datos sanitarios?",
+    "expected_providers": [
+      "P2"
+    ],
+    "topic": "presion-regulatoria",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0111",
+    "text": "¿Cómo aborda el corpus consentimiento dinámico y comunicación de nuevos riesgos?",
+    "expected_providers": [
+      "P1"
+    ],
+    "topic": "bio-infraestructura",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0112",
+    "text": "¿Qué prácticas recomienda para reutilización secundaria vs alcance del consentimiento original?",
+    "expected_providers": [
+      "P1"
+    ],
+    "topic": "bio-infraestructura",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0113",
+    "text": "¿Qué riesgos identifica respecto a gestión de datos genómicos altamente identificables?",
+    "expected_providers": [
+      "P1"
+    ],
+    "topic": "bio-infraestructura",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0114",
+    "text": "¿Qué ventajas e inconvenientes presenta federated learning para análisis multi-hospitalario sin centralizar datos?",
+    "expected_providers": [
+      "P1"
+    ],
+    "topic": "bio-infraestructura",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0115",
+    "text": "¿Cómo se notifica a los participantes sobre heterogeneidad de esquemas y mapping semántico entre hospitales?",
+    "expected_providers": [
+      "P1"
+    ],
+    "topic": "bio-infraestructura",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0116",
+    "text": "¿Qué limitaciones técnicas existen para anonimización insuficiente y riesgo de reidentificación?",
+    "expected_providers": [
+      "P1"
+    ],
+    "topic": "bio-infraestructura",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0117",
+    "text": "¿Cómo se minimiza la exposición de datos en compartición de resultados agregados frente a datos individuales?",
+    "expected_providers": [
+      "P1"
+    ],
+    "topic": "bio-infraestructura",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0118",
+    "text": "¿Qué ejemplos de mitigación presenta el texto para implementación práctica de data spaces en consorcios sanitarios?",
+    "expected_providers": [
+      "P1"
+    ],
+    "topic": "bio-infraestructura",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0119",
+    "text": "¿Qué relación establece entre interoperabilidad y retos técnicos del cómputo local en modelos federados?",
+    "expected_providers": [
+      "P1"
+    ],
+    "topic": "bio-infraestructura",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0120",
+    "text": "¿Qué impacto tiene en la privacidad estrategias para notificar a participantes sobre nuevos usos de datos?",
+    "expected_providers": [
+      "P1"
+    ],
+    "topic": "bio-infraestructura",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0121",
+    "text": "¿Cómo aborda el corpus impacto de la diversidad demográfica en datasets genómicos?",
+    "expected_providers": [
+      "P1"
+    ],
+    "topic": "bio-infraestructura",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0122",
+    "text": "¿Qué prácticas recomienda para procedimientos para actualizar consentimientos ante nuevos estudios?",
+    "expected_providers": [
+      "P1"
+    ],
+    "topic": "bio-infraestructura",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0123",
+    "text": "¿Qué riesgos identifica respecto a interoperabilidad semántica entre registros clínicos?",
+    "expected_providers": [
+      "P1"
+    ],
+    "topic": "bio-infraestructura",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0124",
+    "text": "¿Qué ventajas e inconvenientes presenta uso de datos sintéticos como alternativa a transferencias?",
+    "expected_providers": [
+      "P1"
+    ],
+    "topic": "bio-infraestructura",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0125",
+    "text": "¿Cómo se notifica a los participantes sobre controles de acceso y segregación de datos en hospitales?",
+    "expected_providers": [
+      "P1"
+    ],
+    "topic": "bio-infraestructura",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0126",
+    "text": "¿Qué limitaciones técnicas existen para auditorías técnicas para verificar anonimización?",
+    "expected_providers": [
+      "P1"
+    ],
+    "topic": "bio-infraestructura",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0127",
+    "text": "¿Cómo se minimiza la exposición de datos en limitaciones del consentimiento informado en datos genéticos?",
+    "expected_providers": [
+      "P1"
+    ],
+    "topic": "bio-infraestructura",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0128",
+    "text": "¿Qué ejemplos de mitigación presenta el texto para gestión de solicitudes de retirada de consentimiento?",
+    "expected_providers": [
+      "P1"
+    ],
+    "topic": "bio-infraestructura",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0129",
+    "text": "¿Qué relación establece entre interoperabilidad y mecanismos de control local sobre modelos federados?",
+    "expected_providers": [
+      "P1"
+    ],
+    "topic": "bio-infraestructura",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0130",
+    "text": "¿Qué impacto tiene en la privacidad prácticas recomendadas para minimizar datos compartidos?",
+    "expected_providers": [
+      "P1"
+    ],
+    "topic": "bio-infraestructura",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0131",
+    "text": "¿Qué aspectos éticos resalta el corpus sobre sesgo demográfico en modelos diagnósticos de IA?",
+    "expected_providers": [
+      "P3"
+    ],
+    "topic": "etica-gobernanza",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0132",
+    "text": "¿Qué medidas de gobernanza propone para validación y benchmarking de sistemas de IA en salud?",
+    "expected_providers": [
+      "P3"
+    ],
+    "topic": "etica-gobernanza",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0133",
+    "text": "¿Cómo se sugiere mitigar mecanismos de supervisión humana y rendición de cuentas?",
+    "expected_providers": [
+      "P3"
+    ],
+    "topic": "etica-gobernanza",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0134",
+    "text": "¿Qué recomendaciones concretas hay sobre transparencia en la procedencia de datos y razonamiento del modelo?",
+    "expected_providers": [
+      "P3"
+    ],
+    "topic": "etica-gobernanza",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0135",
+    "text": "¿Qué papel desempeñan los comités en gobernanza participativa y consentimiento participativo?",
+    "expected_providers": [
+      "P3"
+    ],
+    "topic": "etica-gobernanza",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0136",
+    "text": "¿Cómo se incorpora la participación del paciente en data cooperatives y empoderamiento del paciente?",
+    "expected_providers": [
+      "P3"
+    ],
+    "topic": "etica-gobernanza",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0137",
+    "text": "¿Qué mecanismos de auditoría se describen para auditorías participativas para sistemas de IA médica?",
+    "expected_providers": [
+      "P3"
+    ],
+    "topic": "etica-gobernanza",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0138",
+    "text": "¿Qué importancia se da a la trazabilidad en trazabilidad del modelo y explicabilidad para clinicians?",
+    "expected_providers": [
+      "P3"
+    ],
+    "topic": "etica-gobernanza",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0139",
+    "text": "¿Cómo se aborda la equidad respecto a impacto ético de resultados erróneos en poblaciones subrepresentadas?",
+    "expected_providers": [
+      "P3"
+    ],
+    "topic": "etica-gobernanza",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0140",
+    "text": "¿Qué prácticas fomentan la transparencia en mecanismos para incorporar feedback de pacientes en usos de datos?",
+    "expected_providers": [
+      "P3"
+    ],
+    "topic": "etica-gobernanza",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0141",
+    "text": "¿Qué aspectos éticos resalta el corpus sobre políticas para asegurar equidad en diagnósticos asistidos por IA?",
+    "expected_providers": [
+      "P3"
+    ],
+    "topic": "etica-gobernanza",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0142",
+    "text": "¿Qué medidas de gobernanza propone para responsabilidad en caso de decisiones asistidas por IA?",
+    "expected_providers": [
+      "P3"
+    ],
+    "topic": "etica-gobernanza",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0143",
+    "text": "¿Cómo se sugiere mitigar limitaciones éticas del entrenamiento con datos sensibles?",
+    "expected_providers": [
+      "P3"
+    ],
+    "topic": "etica-gobernanza",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0144",
+    "text": "¿Qué recomendaciones concretas hay sobre procedimientos de revisión ética para despliegue de IA clínica?",
+    "expected_providers": [
+      "P3"
+    ],
+    "topic": "etica-gobernanza",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0145",
+    "text": "¿Qué papel desempeñan los comités en modelos de gobernanza centrada en el paciente para data sharing?",
+    "expected_providers": [
+      "P3"
+    ],
+    "topic": "etica-gobernanza",
+    "type": "local",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0146",
+    "text": "¿Cómo interactúa el consentimiento granular con las obligaciones del GDPR en investigación genómica?",
+    "expected_providers": [
+      "P1",
+      "P2"
+    ],
+    "topic": "integracion-bio-legal",
+    "type": "distribuida",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0147",
+    "text": "¿Qué tensiones surgen entre aprendizaje federado y requisitos de minimización del GDPR?",
+    "expected_providers": [
+      "P1",
+      "P2"
+    ],
+    "topic": "integracion-bio-legal",
+    "type": "distribuida",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0148",
+    "text": "¿De qué manera el consentimiento dinámico puede facilitar transferencias bajo SCC?",
+    "expected_providers": [
+      "P1",
+      "P2"
+    ],
+    "topic": "integracion-bio-legal",
+    "type": "distribuida",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0149",
+    "text": "¿Cómo puede la heterogeneidad de esquemas afectar el cumplimiento contractual en exportaciones?",
+    "expected_providers": [
+      "P1",
+      "P2"
+    ],
+    "topic": "integracion-bio-legal",
+    "type": "distribuida",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0150",
+    "text": "¿Qué prácticas combinadas bio-legales se recomiendan para reducir riesgo de reidentificación en estudios genómicos?",
+    "expected_providers": [
+      "P1",
+      "P2"
+    ],
+    "topic": "integracion-bio-legal",
+    "type": "distribuida",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0151",
+    "text": "¿Cómo deberían los hospitales documentar conformidad cuando usan modelos federados con datos genéticos?",
+    "expected_providers": [
+      "P1",
+      "P2"
+    ],
+    "topic": "integracion-bio-legal",
+    "type": "distribuida",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0152",
+    "text": "¿Qué límites impone el GDPR a la reutilización secundaria de datos genómicos con fines de investigación?",
+    "expected_providers": [
+      "P1",
+      "P2"
+    ],
+    "topic": "integracion-bio-legal",
+    "type": "distribuida",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0153",
+    "text": "¿Cómo se alinea la práctica de compartir resultados agregados con las obligaciones de transparencia legal?",
+    "expected_providers": [
+      "P1",
+      "P2"
+    ],
+    "topic": "integracion-bio-legal",
+    "type": "distribuida",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0154",
+    "text": "¿Qué medidas técnicas y contractuales son necesarias para compartir modelos entrenados con datos sensibles?",
+    "expected_providers": [
+      "P1",
+      "P2"
+    ],
+    "topic": "integracion-bio-legal",
+    "type": "distribuida",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0155",
+    "text": "¿Cómo se integra la actualización de consentimientos con las cláusulas contractuales para transferencias?",
+    "expected_providers": [
+      "P1",
+      "P2"
+    ],
+    "topic": "integracion-bio-legal",
+    "type": "distribuida",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0156",
+    "text": "¿Cómo se relaciona el principio de accountability del GDPR con la supervisión humana de sistemas de IA?",
+    "expected_providers": [
+      "P2",
+      "P3"
+    ],
+    "topic": "integracion-legal-etica",
+    "type": "distribuida",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0157",
+    "text": "¿Qué exigencias regulatorias son relevantes para asegurar la transparencia en modelos diagnósticos?",
+    "expected_providers": [
+      "P2",
+      "P3"
+    ],
+    "topic": "integracion-legal-etica",
+    "type": "distribuida",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0158",
+    "text": "¿Cómo pueden los marcos regulatorios exigir validación rigurosa y auditorías participativas?",
+    "expected_providers": [
+      "P2",
+      "P3"
+    ],
+    "topic": "integracion-legal-etica",
+    "type": "distribuida",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0159",
+    "text": "¿Qué responsabilidades legales recaen en caso de sesgo algorítmico que perjudique a grupos protegidos?",
+    "expected_providers": [
+      "P2",
+      "P3"
+    ],
+    "topic": "integracion-legal-etica",
+    "type": "distribuida",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0160",
+    "text": "¿Cómo puede la pseudonimización contribuir a cumplir exigencias éticas en IA médica?",
+    "expected_providers": [
+      "P2",
+      "P3"
+    ],
+    "topic": "integracion-legal-etica",
+    "type": "distribuida",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0161",
+    "text": "¿Qué papel tiene la transparencia normativa en la confianza pública frente a diagnósticos automáticos?",
+    "expected_providers": [
+      "P2",
+      "P3"
+    ],
+    "topic": "integracion-legal-etica",
+    "type": "distribuida",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0162",
+    "text": "¿Cómo deben documentarse las decisiones humanas en circuitos de supervisión exigidos por reguladores?",
+    "expected_providers": [
+      "P2",
+      "P3"
+    ],
+    "topic": "integracion-legal-etica",
+    "type": "distribuida",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0163",
+    "text": "¿Qué mecanismos legales apoyan la gobernanza participativa frente a despliegues de IA clínica?",
+    "expected_providers": [
+      "P2",
+      "P3"
+    ],
+    "topic": "integracion-legal-etica",
+    "type": "distribuida",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0164",
+    "text": "¿Cómo se coordinan supervisores y comités éticos en la validación de sistemas de IA?",
+    "expected_providers": [
+      "P2",
+      "P3"
+    ],
+    "topic": "integracion-legal-etica",
+    "type": "distribuida",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0165",
+    "text": "¿Qué obligaciones de notificación se derivan de fallos en sistemas de diagnóstico automatizados?",
+    "expected_providers": [
+      "P2",
+      "P3"
+    ],
+    "topic": "integracion-legal-etica",
+    "type": "distribuida",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0166",
+    "text": "¿Cómo combinar consentimiento dinámico, salvaguardas contractuales y auditorías participativas para un estudio genómico internacional?",
+    "expected_providers": [
+      "P1",
+      "P2",
+      "P3"
+    ],
+    "topic": "integracion-triangular",
+    "type": "distribuida",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0167",
+    "text": "¿Qué esquema de gobernanza triangular reduce el riesgo de reidentificación al compartir modelos de IA entrenados con datos genómicos?",
+    "expected_providers": [
+      "P1",
+      "P2",
+      "P3"
+    ],
+    "topic": "integracion-triangular",
+    "type": "distribuida",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0168",
+    "text": "¿Cómo articular políticas locales, cláusulas contractuales y mecanismos de participación ciudadana para protección de datos sensibles?",
+    "expected_providers": [
+      "P1",
+      "P2",
+      "P3"
+    ],
+    "topic": "integracion-triangular",
+    "type": "distribuida",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0169",
+    "text": "¿Qué procedimientos integrados (técnicos, legales y éticos) recomiendan para manejo de datos clínicos en consorcios federados?",
+    "expected_providers": [
+      "P1",
+      "P2",
+      "P3"
+    ],
+    "topic": "integracion-triangular",
+    "type": "distribuida",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0170",
+    "text": "¿Cómo alinear transparencia del modelo, obligaciones de controller y derechos del paciente en despliegues de IA en hospitales?",
+    "expected_providers": [
+      "P1",
+      "P2",
+      "P3"
+    ],
+    "topic": "integracion-triangular",
+    "type": "distribuida",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0171",
+    "text": "¿Qué combinación de medidas (pseudonimización, SCCs, auditorías participativas) es adecuada para transferencias de datos genómicos?",
+    "expected_providers": [
+      "P1",
+      "P2",
+      "P3"
+    ],
+    "topic": "integracion-triangular",
+    "type": "distribuida",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0172",
+    "text": "¿Cómo diseñar un proceso de gobernanza que permita reutilización secundaria respetando exigencias legales y expectativas éticas?",
+    "expected_providers": [
+      "P1",
+      "P2",
+      "P3"
+    ],
+    "topic": "integracion-triangular",
+    "type": "distribuida",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0173",
+    "text": "¿Qué papel puede jugar la evaluación de impacto (DPIA) en una gobernanza participativa para investigación federada?",
+    "expected_providers": [
+      "P1",
+      "P2",
+      "P3"
+    ],
+    "topic": "integracion-triangular",
+    "type": "distribuida",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0174",
+    "text": "¿Cómo integrar controles técnicos locales, contratos y participación del paciente para mitigar riesgos transfronterizos?",
+    "expected_providers": [
+      "P1",
+      "P2",
+      "P3"
+    ],
+    "topic": "integracion-triangular",
+    "type": "distribuida",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0175",
+    "text": "¿Qué modelo de rendición de cuentas triangular facilita cumplimiento legal y legitimidad ética en data spaces sanitarios?",
+    "expected_providers": [
+      "P1",
+      "P2",
+      "P3"
+    ],
+    "topic": "integracion-triangular",
+    "type": "distribuida",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0176",
+    "text": "¿Cómo coordinar actualizaciones de consentimiento, cláusulas contractuales y auditorías para nuevos usos de datos genómicos?",
+    "expected_providers": [
+      "P1",
+      "P2",
+      "P3"
+    ],
+    "topic": "integracion-triangular",
+    "type": "distribuida",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0177",
+    "text": "¿Qué medidas combinadas son necesarias para asegurar equidad y cumplimiento al desplegar IA diagnóstica con datos compartidos?",
+    "expected_providers": [
+      "P1",
+      "P2",
+      "P3"
+    ],
+    "topic": "integracion-triangular",
+    "type": "distribuida",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0178",
+    "text": "¿De qué forma la gobernanza centrada en el paciente reconfigura las obligaciones legales en consorcios internacionales?",
+    "expected_providers": [
+      "P1",
+      "P2",
+      "P3"
+    ],
+    "topic": "integracion-triangular",
+    "type": "distribuida",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0179",
+    "text": "¿Cómo articular transparencia técnica, documentación legal y participación para minimizar sesgos en modelos federados?",
+    "expected_providers": [
+      "P1",
+      "P2",
+      "P3"
+    ],
+    "topic": "integracion-triangular",
+    "type": "distribuida",
+    "difficulty": "alta",
+    "calibration_set": false
+  },
+  {
+    "id": "Q0180",
+    "text": "¿Qué estrategias integradas reducen la concentración de respuestas en proveedores regulatorios sin sacrificar cumplimiento?",
+    "expected_providers": [
+      "P1",
+      "P2",
+      "P3"
+    ],
+    "topic": "integracion-triangular",
+    "type": "distribuida",
+    "difficulty": "alta",
+    "calibration_set": false
+  }
+]
