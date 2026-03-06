@@ -41,7 +41,8 @@ Repositorio original: https://github.com/GSYAtools/DSRAG
 ### 1️⃣ Generación de embeddings — `embed_queries_once.py`
 
 **Qué hace:** genera vectores (embeddings) para las queries (preguntas) usando la API de OpenAI.  
-**Motivo de aislarlo:** separamos este paso para **optimizar el consumo de la API** (evitar repetir llamadas) y facilitar el reuso de vectores en múltiples ejecuciones del runner estructural (por ejemplo, al probar distintas configuraciones de bootstrap o degradación). También permite usar búsquedas vectoriales locales (FAISS) sin contactar a la API cada vez.  
+**Motivo de aislarlo:** separamos este paso para **optimizar el consumo de la API** (evitar repetir llamadas) y facilitar el reuso de vectores en múltiples ejecuciones del runner estructural (por ejemplo, al probar distintas configuraciones de bootstrap o degradación). También permite usar búsquedas vectoriales locales (FAISS) sin contactar a la API cada vez. 
+**Condiciones de ejecución:** para ejecutar este script es necesario incluir en la ruta del script un archivo .env con la llave del API de OpenAI.
 **Entrada:** `queries.json` (lista de queries).  
 **Salida:** `queries_with_embeddings.json` (igual que input, añadiendo campo `embedding` por query).
 
