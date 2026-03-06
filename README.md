@@ -38,7 +38,7 @@ Repositorio original: https://github.com/GSYAtools/DSRAG
 
 ## Flujo experimental (paso a paso con explicación)
 
-### 1️⃣ Generación de embeddings — `embed_queries_openai_v1.py`
+### 1️⃣ Generación de embeddings — `embed_queries_once.py`
 
 **Qué hace:** genera vectores (embeddings) para las queries (preguntas) usando la API de OpenAI.  
 **Motivo de aislarlo:** separamos este paso para **optimizar el consumo de la API** (evitar repetir llamadas) y facilitar el reuso de vectores en múltiples ejecuciones del runner estructural (por ejemplo, al probar distintas configuraciones de bootstrap o degradación). También permite usar búsquedas vectoriales locales (FAISS) sin contactar a la API cada vez.  
@@ -47,7 +47,7 @@ Repositorio original: https://github.com/GSYAtools/DSRAG
 
 **Ejemplo de ejecución:**
 ```bash
-python embed_queries_openai_v1.py   --queries queries.json   --out queries_with_embeddings.json
+python embed_queries_once.py   --queries queries.json   --out queries_with_embeddings.json
 ```
 
 ---
@@ -127,7 +127,7 @@ python plot_hist_jsd.py   --input-dir summary   --out figures   --bins 30
 
 ```
 .
-├── embed_queries_openai_v1.py        # Genera embeddings (OpenAI) para queries.json
+├── embed_queries_once.py             # Genera embeddings (OpenAI) para queries.json
 ├── structural_double_end2end.py      # Runner estructural + calibración + simulaciones
 ├── collect_runs.py                   # Consolida múltiples runs en summary/
 ├── make_figure_from_test.py          # Genera Figuras 2a, 2b y 3 (usadas en el artículo)
